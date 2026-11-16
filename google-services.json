@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48155885902",
+    "project_id": "ochiq-lokatsiya",
+    "storage_bucket": "ochiq-lokatsiya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48155885902:android:4f817564547abd0182de1f",
+        "android_client_info": {
+          "package_name": "com.revox.Lokatsiya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzzVFvbBCjmc8AmhNyMdi5bDSJMMRiwOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
